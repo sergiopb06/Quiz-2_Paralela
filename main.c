@@ -46,7 +46,7 @@ int main(void){
 
 void think(int phil) {
     printf("Philosopher %d is thinking\n", phil);
-    // sleep(1); //Sleep could be usefull for showing the parallelism in real time. 
+    // sleep(1); //Sleep could be useful for showing the parallelism in real time. 
 }
 
 void eat(int phil) {
